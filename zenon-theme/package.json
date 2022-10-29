@@ -1,0 +1,21 @@
+{
+  "name": "zenon-theme",
+  "displayName": "Zenon theme",
+  "description": "Based on main color of the Tristan Retali portfolio and I make this extension to learrn new things",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zenon theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zenon theme-color-theme.json"
+      }
+    ]
+  }
+}
