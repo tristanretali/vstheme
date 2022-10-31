@@ -79,7 +79,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#B584C7"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6bcfee"
+				"foreground": "#82AAFF"
 			}
 		},
 		{

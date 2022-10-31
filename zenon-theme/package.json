@@ -1,8 +1,13 @@
 {
   "name": "zenon-theme",
   "displayName": "Zenon theme",
-  "description": "Based on main color of the Tristan Retali portfolio and I make this extension to learrn new things",
-  "version": "0.0.1",
+  "description": "Based on main color of the Tristan Retali portfolio and I make this extension to learn new things",
+  "version": "0.1.0",
+  "publisher": "tristanretali",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristanretali/vstheme"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
