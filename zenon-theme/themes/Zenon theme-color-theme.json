@@ -23,7 +23,7 @@
 		"tab.inactiveBackground":"#31393f",
 		"editorLineNumber.foreground":"#98a3e0",
 		"editorLineNumber.activeForeground":"#d7d6ea",
-		"editor.selectionBackground":"#4d61d6",
+		"editor.selectionBackground":"#00AD46",
 		"editor.findMatchBackground":"#4d61d6",
 		"editor.findMatchHighlightBackground":"#4d61d6",
 		"editorUnicodeHighlight.background":"#4d61d6",
@@ -50,7 +50,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#56648e"
+				"foreground": "#5772C0"
 			}
 		},
 		{
@@ -90,7 +90,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#b584c7"
+				"foreground": "#34E52B"
 			}
 		},
 		{
@@ -129,13 +129,13 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
+				"meta.function-call.generic.python",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#FD4B28"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#1592e6"
+				"foreground": "#34E52B"
 			}
 		},
 		{
@@ -281,11 +281,11 @@
 			"name": "HTML Attributes",
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
+				"text.html.basic entity.other.attribute-name",
+				"text.html.jinja"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#34E52B"
 			}
 		},
 		{
